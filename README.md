@@ -5,6 +5,7 @@
 ### In the first program, you just code it following the traditional for-looping skill.
 ### In the second program, you need trying to code it by using the new multithreading skill.
 
+---
 ### 程式碼路徑
 
 OS_HW_1 => OS-HW1 => ViewController.swift
